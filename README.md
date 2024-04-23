@@ -1,5 +1,5 @@
 # Nota-Fiscal.
-Aplicação Java que realiza a mensageria entre duas notas fiscais, uma de envio e outra de consumo e com documentação Swagger para melhor leitura.
+Aplicação Java que realiza a mensageria entre duas notas fiscais, uma de envio e outra de consumo neste mesmo repositório e com documentação Swagger para melhor leitura de outros desenvolvedores.
 &nbsp;
 
 ## Used Languages:
